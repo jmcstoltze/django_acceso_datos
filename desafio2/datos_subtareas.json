@@ -1,0 +1,98 @@
+[
+    {
+        "model": "desafioadl.subtarea",
+        "pk": 1,
+        "fields": {
+            "descripcion": "esta es la descripción de la subtarea 1",
+            "tarea": 1
+        }
+    },
+    {
+        "model": "desafioadl.subtarea",
+        "pk": 2,
+        "fields": {
+            "descripcion": "esta es la descripción de la subtarea 2",
+            "tarea": 1
+        }
+    },
+    {
+        "model": "desafioadl.subtarea",
+        "pk": 3,
+        "fields": {
+            "descripcion": "esta es la descripción de la subtarea 3",
+            "tarea": 1
+        }
+    },
+    {
+        "model": "desafioadl.subtarea",
+        "pk": 4,
+        "fields": {
+            "descripcion": "esta es la descripción de la subtarea 4",
+            "tarea": 2
+        }
+    },
+    {
+        "model": "desafioadl.subtarea",
+        "pk": 5,
+        "fields": {
+            "descripcion": "esta es la descripción de la subtarea 5",
+            "tarea": 2
+        }
+    },
+    {
+        "model": "desafioadl.subtarea",
+        "pk": 6,
+        "fields": {
+            "descripcion": "esta es la descripción de la subtarea 6",
+            "tarea": 2
+        }
+    },
+    {
+        "model": "desafioadl.subtarea",
+        "pk": 7,
+        "fields": {
+            "descripcion": "esta es la descripción de la subtarea 7",
+            "tarea": 3
+        }
+    },
+    {
+        "model": "desafioadl.subtarea",
+        "pk": 8,
+        "fields": {
+            "descripcion": "esta es la descripción de la subtarea 8",
+            "tarea": 3
+        }
+    },
+    {
+        "model": "desafioadl.subtarea",
+        "pk": 9,
+        "fields": {
+            "descripcion": "esta es la descripción de la subtarea 9",
+            "tarea": 3
+        }
+    },
+    {
+        "model": "desafioadl.subtarea",
+        "pk": 10,
+        "fields": {
+            "descripcion": "esta es la descripción de la subtarea 10",
+            "tarea": 4
+        }
+    },
+    {
+        "model": "desafioadl.subtarea",
+        "pk": 11,
+        "fields": {
+            "descripcion": "esta es la descripción de la subtarea 11",
+            "tarea": 4
+        }
+    },
+    {
+        "model": "desafioadl.subtarea",
+        "pk": 12,
+        "fields": {
+            "descripcion": "esta es la descripción de la subtarea 12",
+            "tarea": 4
+        }
+    }
+]
